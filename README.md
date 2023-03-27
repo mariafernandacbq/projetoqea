@@ -3,7 +3,7 @@ Projeto desenvolvido na aula da UC12 do curso de Técnico em Informática do SEN
 
 ![Black Technology LinkedIn Banner](https://user-images.githubusercontent.com/111750542/226937781-908b1a6a-e055-4ef4-9d9f-9be04676deac.png)
 
-## Um site desenvolvido para  usuarios realizarem perguntas e respostas. Onde possam compartilharem dúvidas e conhecimentos!
+## Um site desenvolvido para  usuários realizarem perguntas e respostas. Onde possam compartilharem dúvidas e conhecimentos!
 
 ## Layout  ![icons8-paleta-de-pintura-48](https://user-images.githubusercontent.com/111750542/226944307-08021828-36fd-45ae-9ece-26a1cee2e9e8.png)
 ### Web ![icons8-web-64 (2)](https://user-images.githubusercontent.com/111750542/227933730-72b45881-d8d9-4656-bdce-92ca00accadf.png)
