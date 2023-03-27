@@ -18,21 +18,38 @@ Projeto desenvolvido na aula da UC12 do curso de Técnico em Informática do SEN
 
 ## Tecnologia  ![icons8-caixa-de-armazenamento-de-ferramentas-completas-48](https://user-images.githubusercontent.com/111750542/226946425-f28062f2-f500-41a6-971d-fdd102b90f02.png)
 ### Ferramentas usadas para criar o site:
-Visual Studio Code
 
-Xampp
+- Visual Studio Code
 
-Mysql
+- Xampp
+
+- Mysql
+
+### Linguagem de programação:
+
+- JavaScript
+
+- Css
+
+- Node.js
+
 
 ## Como executar o projeto ![icons8-foguete-50](https://user-images.githubusercontent.com/111750542/226948082-e082c215-ea7f-4e3a-932c-81711590e364.png)
 
-### Podemos considerar este projeto como sendo divido em três partes:
+### Passo a passo:
 
-Back End (pasta server)
+- Clonar projeto do github 
 
-Front End (pasta web)
+- Abrir a pasta do projeto no editor de texto
 
-Mobile (pasta mobile)
+- Executar comando npm install para instalar as dependencias
+
+- Configurar os arquivos .env com as informações do banco de dados 
+
+- Executar o comando npm run dev
+
+
+
 
 
 
