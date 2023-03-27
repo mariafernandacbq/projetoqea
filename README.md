@@ -6,7 +6,8 @@ Projeto desenvolvido na aula da UC12 do curso de Técnico em Informática do SEN
 ## Um site desenvolvido para  usuarios realizarem perguntas e respostas. Onde possam compartilharem dúvidas e conhecimentos!
 
 ## Layout  ![icons8-paleta-de-pintura-48](https://user-images.githubusercontent.com/111750542/226944307-08021828-36fd-45ae-9ece-26a1cee2e9e8.png)
-### Web:
+### Web ![icons8-web-64 (2)](https://user-images.githubusercontent.com/111750542/227933730-72b45881-d8d9-4656-bdce-92ca00accadf.png)
+
 ![Captura de tela 2023-03-22 115101](https://user-images.githubusercontent.com/111750542/226945742-3c89f72a-b589-47be-a52f-92e75e4bd9e3.png)
 ![Captura de tela 2023-03-22 112642](https://user-images.githubusercontent.com/111750542/226945768-e88a6dca-6f15-4300-9188-4f9a8057124e.png)
 
