@@ -46,7 +46,7 @@ Projeto desenvolvido na aula da UC12 do curso de Técnico em Informática do SEN
 
 - Configurar o arquivo .env com as informações do banco de dados 
 
-- Executar o comando npm run dev
+- Executar o comando npm run dev 
 
 
 
