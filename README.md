@@ -18,7 +18,7 @@ Xampp
 
 Mysql
 
-## Como executar ![icons8-foguete-50](https://user-images.githubusercontent.com/111750542/226948082-e082c215-ea7f-4e3a-932c-81711590e364.png)
+## Como executar o projeto ![icons8-foguete-50](https://user-images.githubusercontent.com/111750542/226948082-e082c215-ea7f-4e3a-932c-81711590e364.png)
 
 ### Podemos considerar este projeto como sendo divido em três partes:
 
